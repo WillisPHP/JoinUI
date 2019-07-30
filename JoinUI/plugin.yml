@@ -1,0 +1,11 @@
+name: JoinUI
+main: JoinUI\Main
+api: [3.0.0, 4.0.0]
+version: 1.12.x
+author: Willis(Гаджиев Гаджи)
+
+commands:
+  info:
+    description: "info"
+    permission: info.use
+    default: true
